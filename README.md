@@ -15,4 +15,5 @@ https://www.kaggle.com/datasets/d4rklucif3r/cat-and-dogs
   - loss = binary_crossentropy
 
 ## Results 
-
+  - Accuracy = 93%
+  - F1-score = 0.93
